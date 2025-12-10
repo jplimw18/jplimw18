@@ -45,7 +45,7 @@ Aqui estão as tecnologias e ferramentas que utilizo para criar soluções:
 ### MBM Systems (Estágio)
 * Integração de serviços de vistoria com API OpenApi para pátios Redex e Depot.
 * Criação de APIs ASP.NET (Legacy & Core) para controle de fluxo portuário.
-* Otimização massiva de banco de dados SQL Server.
+* Otimização de banco de dados SQL Server.
 
 ### FATEC Rubens Lara (Monitoria)
 * Ensino de Estrutura de Dados e Lógica de Programação com C#.
